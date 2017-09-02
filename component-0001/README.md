@@ -3,7 +3,7 @@
 
 # component-0001
 
-> Vue.js Headline News component project
+> Vue.js latest technology Headline News (newsapi.org) component project
 
 ## Build Setup
 
