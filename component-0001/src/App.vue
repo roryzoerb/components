@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <hello></hello>
+    <!-- <img src="./assets/logo.png"> -->
+    <!-- <hello></hello> -->
+    <headlinenews></headlinenews>
   </div>
 </template>
 
 <script>
-import Hello from './components/Hello'
+// import Hello from './components/Hello'
+import HeadlineNews from './components/HeadlineNews'
 
 export default {
   name: 'app',
   components: {
-    Hello
+    // Hello,
+    'headlinenews': HeadlineNews
   }
 }
 </script>

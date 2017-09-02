@@ -1,6 +1,9 @@
+![Vue Logo](./src/assets/vue_logo.png)
+![Logo of the project](./src/assets/news-icon.png)
+
 # component-0001
 
-> Vue.js Nasa Images component project
+> Vue.js Headline News component project
 
 ## Build Setup
 
